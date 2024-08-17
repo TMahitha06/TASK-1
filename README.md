@@ -16,14 +16,13 @@ OVERVIEW OF PROJECT:
 
 **Project**: To-Do-List
 
-![Capture](https://github.com/user-attachments/assets/b9bb6af5-9d10-489e-95f8-a28250b2601d)
+
 
 
 **Objective**:
 
 The objective of a to-do list in Python is to create a simple, interactive tool for managing and organizing tasks. It allows users to add, view, update, and delete tasks, helping them stay organized and track their progress effectively.
-
-
+![task-1](https://github.com/user-attachments/assets/aa07902d-3111-44bb-831b-951279184f71)
 
 **Key Activities**:
 
